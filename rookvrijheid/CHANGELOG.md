@@ -1,6 +1,10 @@
 ## **Coming up next:**
 Hier kan je de geschiedenis van alle nieuwe features volgen. 
 
+## **1.5.0** Lief dagboek!
+#### Release: 17-4-2022
+- Wat vet! Het dagboek staat al tijden bovenaan mijn verlanglijst voor de app, maar het is me nu ein-de-lijk gelukt om een compleet werkende pagina in te bouwen in de app. Nu kan je voortaan precies bijhouden hoe je je voelt, hoe moeilijk je het vond om niet te roken, en voor als je nog niet gestopt bent: hoeveel je nog had gerookt op elke dag. Ik hoop dat jullie er wat aan zullen gaan hebben. Enjoy!
+
 ## **1.4.0** Bosjes bloemen fix
 #### Release: 18-3-2022
 - Een oplettende gebruikster wees mij vriendelijk op een foutje in de berekening van het aantal bosjes bloemen en saunabezoekjes dat je hebt bespaard sinds je bent gestopt met roken. Deze mooie update lost dat alweer op. Onwijs bedankt voor het melden!
