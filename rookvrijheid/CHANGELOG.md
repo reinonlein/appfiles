@@ -1,6 +1,10 @@
 ## **Coming up next:**
 Hier kan je de geschiedenis van alle nieuwe features volgen. 
 
+## **1.6.0** Je gloednieuwe bespaarpot
+#### Release: 15 juli 2022
+- Soms mag je jezelf best wel eens belonen voor de fantastische prestatie die je hier aan het leveren bent. En hoe leuk is het om dat te doen van het geld dat je bespaard hebt door niet te roken? De gloednieuwe bespaarpot helpt je hier voortaan bij. Gewoon, omdat dat kan!
+
 ## **1.5.0** Lief dagboek!
 #### Release: 17-4-2022
 - Wat vet! Het dagboek staat al tijden bovenaan mijn verlanglijst voor de app, maar het is me nu ein-de-lijk gelukt om een compleet werkende pagina in te bouwen in de app. Nu kan je voortaan precies bijhouden hoe je je voelt, hoe moeilijk je het vond om niet te roken, en voor als je nog niet gestopt bent: hoeveel je nog had gerookt op elke dag. Ik hoop dat jullie er wat aan zullen gaan hebben. Enjoy!
