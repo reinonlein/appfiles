@@ -2,7 +2,7 @@
 Hier kan je de geschiedenis van alle nieuwe features volgen. 
 
 ## **1.6.0** Je gloednieuwe bespaarpot
-#### Release: 15 juli 2022
+#### Release: 15 juli 2022 (alleen Android, maar iPhone komt eraan!)
 - Soms mag je jezelf best wel eens belonen voor de fantastische prestatie die je hier aan het leveren bent. En hoe leuk is het om dat te doen van het geld dat je bespaard hebt door niet te roken? De gloednieuwe bespaarpot helpt je hier voortaan bij. Gewoon, omdat dat kan!
 
 ## **1.5.0** Lief dagboek!
