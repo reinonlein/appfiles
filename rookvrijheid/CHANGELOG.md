@@ -1,12 +1,17 @@
 ## **Coming up next:**
 Hier kan je de geschiedenis van alle nieuwe features volgen. 
 
-## **1.6.0** Je gloednieuwe bespaarpot
-#### Release: 15 juli 2022 (alleen Android, maar iPhone komt eraan!)
+## **1.7** De pauzeknop
+#### Release: 3 oktober 2022
+- Met deze update is er een functie toegevoegd die niemand hopelijk hoeft te gebruiken, maar mocht je toch per ongeluk weer een keer gaan roken, dan kan je nu alle tellers pauzeren door je stopperiode te onderbreken zodat je niet meer geconfronteerd wordt met ongepaste felicitaties. Als je dit via de tegel in het startscherm doet wordt deze periode automatich toegevoegd aan je stopgeschiedenis. En stop je opnieuw? Dan kan je gelijk weer verder met de app!
+
+
+## **1.6** Je gloednieuwe bespaarpot
+#### Release: 15 juli 2022
 - Soms mag je jezelf best wel eens belonen voor de fantastische prestatie die je hier aan het leveren bent. En hoe leuk is het om dat te doen van het geld dat je bespaard hebt door niet te roken? De gloednieuwe bespaarpot helpt je hier voortaan bij. Gewoon, omdat dat kan!
 
 ## **1.5.0** Lief dagboek!
-#### Release: 17-4-2022
+#### Release: 17 april 2022
 - Wat vet! Het dagboek staat al tijden bovenaan mijn verlanglijst voor de app, maar het is me nu ein-de-lijk gelukt om een compleet werkende pagina in te bouwen in de app. Nu kan je voortaan precies bijhouden hoe je je voelt, hoe moeilijk je het vond om niet te roken, en voor als je nog niet gestopt bent: hoeveel je nog had gerookt op elke dag. Ik hoop dat jullie er wat aan zullen gaan hebben. Enjoy!
 
 ## **1.4.0** Bosjes bloemen fix
