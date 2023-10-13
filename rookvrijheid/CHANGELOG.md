@@ -1,10 +1,13 @@
 ## **Coming up next:**
 Hier kan je de geschiedenis van alle nieuwe features volgen. 
 
+## **1.8** Een grote schoonmaak
+#### Release: 13 oktober 2023
+- Als het goed is merken jullie niet veel van deze update, maar achter de schermen bevat deze een enorme upgrade waardoor de app weer helemaal up-to-date is en met zijn tijd mee kan. Een superfijne schoonmaak dus!
+
 ## **1.7** De pauzeknop
 #### Release: 3 oktober 2022
 - Met deze update is er een functie toegevoegd die niemand hopelijk hoeft te gebruiken, maar mocht je toch per ongeluk weer een keer gaan roken, dan kan je nu alle tellers pauzeren door je stopperiode te onderbreken zodat je niet meer geconfronteerd wordt met ongepaste felicitaties. Als je dit via de tegel in het startscherm doet wordt deze periode automatich toegevoegd aan je stopgeschiedenis. En stop je opnieuw? Dan kan je gelijk weer verder met de app!
-
 
 ## **1.6** Je gloednieuwe bespaarpot
 #### Release: 15 juli 2022
