@@ -1,6 +1,18 @@
 ## **Coming up next:**
 Hier kan je de geschiedenis van alle nieuwe features volgen. 
 
+## **1.11** Upgrade notificaties
+#### Release: oktober 2024
+- Deze upgrade zorgt ervoor dat de app achter de schermen voldoet aan de nieuwste spelregels voor de notificaties die je krijgt als je een mijlpaal hebt bereikt.
+
+## **1.10** Jaarlijkse software update
+#### Release: oktober 2024
+- Ieder jaar moet de app geupdate worden om te voldoen aan de nieuwste regels van de appstores. Dit is de update van 2024, naar sdk versie 34 voor Android. 
+
+## **1.9** Statische boekenlijst
+#### Release: april 2024
+- De manier waarop de data in de aanbevolen boekenlijst geladen wordt is nu anders, zodat we niet steeds API calls hoeven te maken naar Bol.
+
 ## **1.8** Een grote schoonmaak
 #### Release: 13 oktober 2023
 - Als het goed is merken jullie niet veel van deze update, maar achter de schermen bevat deze een enorme upgrade waardoor de app weer helemaal up-to-date is en met zijn tijd mee kan. Een superfijne schoonmaak dus!
