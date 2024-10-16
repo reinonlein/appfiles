@@ -1,6 +1,13 @@
 ## **Coming up next:**
 Deze app is nooit klaar! Om de zoveel tijd breng ik weer een update uit met nieuwe functionaliteit en verbeteringen. Hieronder kan je teruglezen wat er elke keer weer nieuw is:
 
+## **1.27** Upgrade notificaties
+#### Release: 16 oktober 2024
+Deze upgrade zorgt ervoor dat de app achter de schermen voldoet aan de nieuwste spelregels voor de notificaties die je krijgt als je een mijlpaal hebt bereikt.
+
+## **1.26** Jaarlijkse software update
+#### Release: 7 oktober 2024
+Ieder jaar moet de app geupdate worden om te voldoen aan de nieuwste regels van de appstores. Dit is de update van 2024, naar sdk versie 34 voor Android. 
 
 ## **1.25.0** Boekenlijst en bespaarpot fix
 #### Release: april 2024
