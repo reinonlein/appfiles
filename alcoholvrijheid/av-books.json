@@ -2,6 +2,31 @@
     "products": [
         {
             "id": "9300000029198232",
+            "title": "De verslaving voorbij",
+            "specsTag": "Jan Geurtz",
+            "rating": 0,
+            "shortDescription": "In De verslaving voorbij verklaart Jan Geurtz verslavingen op een verrassende wijze, en toont vervolgens een verbluffend simpele uitweg uit de gevangenis van verslaving en dwangmatigheid. In De verslaving voorbij van Jan Geurtz komen alle eigentijdse vormen van verslaving en dwangmatigheid aan bod: drugs- en medicijnverslaving, alcohol- en rookverslaving, eet- en gokverslaving, seks- en relatieverslaving en diverse dwangmatigheden. Jan Geurtz verklaart ze op een verrassende wijze, en toont vervolgens een verbluffend simpele uitweg uit de gevangenis van verslaving en dwangmatigheid. Deze methode is in principe voor iedereen toepasbaar en helpt mensen daadwerkelijk een einde aan hun verslaving te maken! Familieleden van verslaafden kunnen door dit boek geïnspireerd worden om op een andere manier met de verslaafde om te gaan, een manier die minder belastend is voor henzelf en voor de verslaafde meer uitzicht biedt op verandering. Ook de verslavings-hulpverlener kan nieuwe inzichten opdoen die zijn behandeling succesvoller maken. ‘Dit boek leert je anders naar jezelf en je verslaving te kijken en helpt je om een beter mens te worden.’ – Stichting Gezondheid",
+            "urls": [
+                {
+                    "key": "DESKTOP",
+                    "value": "https://www.bol.com/nl/nl/p/de-verslaving-voorbij/9300000029198232/"
+                }
+            ],
+            "images": [
+                {
+                    "type": "IMAGE",
+                    "key": "XS",
+                    "url": "https://media.s-bol.com/JP7Pl1M0J6PK/39x60.jpg"
+                },
+                {
+                    "type": "IMAGE",
+                    "key": "S",
+                    "url": "https://media.s-bol.com/JP7Pl1M0J6PK/79x123.jpg"
+                }
+            ]
+        },
+        {
+            "id": "9300000029198232",
             "ean": "9789026356568",
             "gpc": "BOOKS",
             "title": "De verslaving voorbij",
