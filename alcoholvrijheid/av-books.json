@@ -1,34 +1,6 @@
 {
     "products": [
         {
-            "title": "Alcohol Alarm",
-            "id": "9300000152669356",
-            "specsTag": "Evi Heyndrickx",
-            "shortDescription": "Geen manifest tegen alcohol, maar een ontwapenend verhaal in een no-nonsensestijl en met tonnen informatie. Maar liefst 84% van de Belgen drinkt alcohol, en Evi Heyndrickx was een van hen. Niks bijzonders dus, alleen: Evi’s rem was kapot – mede als gevolg van een gastric bypass. Ze stopte, herviel en ging rock-bottom. Dus las ze boeken, ging naar praatgroepen, volgde therapie, schoolde zich bij en startte de populaire docu-podcast Alcohol Alarm! Zo ontdekte ze haar onderliggende pijn, maar ook het aanbod aan afhankelijkheidszorg. In dit boek neemt Evi je mee op haar persoonlijke zoektocht. Aan de hand van 28 straffe testimonials van lotgenoten, alcoholflexers, familieleden van verslaafden en bekende en minder bekende persoonlijkheden vertelt ze met humor over haar (on)nuchtere leven en onderzoekt ze welke organisaties, coachings, therapieën en strategieën er bestaan. It’s a bumpy road, maar als het lukt, wacht je een creatiever, bewuster leven.",          
-            "urls": [
-                {
-                    "key": "DESKTOP",
-                    "value": "https://www.bol.com/nl/nl/p/alcohol-alarm/9300000152669356/"
-                },
-                {
-                    "key": "MOBILE",
-                    "value": "https://www.bol.com/nl/nl/p/alcohol-alarm/9300000152669356/"
-                }
-            ],
-            "images": [
-                {
-                    "type": "IMAGE",
-                    "key": "XS",
-                    "url": "https://media.s-bol.com/70nZk18Yj7Zj/0R89jVG/850x1200.jpg"
-                },
-                {
-                    "type": "IMAGE",
-                    "key": "S",
-                    "url": "https://media.s-bol.com/70nZk18Yj7Zj/0R89jVG/850x1200.jpg"
-                },
-            ],
-        },
-        {
             "id": "9300000029198232",
             "ean": "9789026356568",
             "gpc": "BOOKS",
